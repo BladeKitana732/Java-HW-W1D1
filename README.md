@@ -2,7 +2,7 @@
 
 1. https://www.codecademy.com/courses/learn-java/lessons/hello-world-java (Links to an external site.)
 
-
+![wireframe](./src/JavaHW1.jpg)
 
 2. Familiarize yourself with Intellij (community edition)- Completed 
 
