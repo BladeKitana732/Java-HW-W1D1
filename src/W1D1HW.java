@@ -1,7 +1,10 @@
+import java.util.Scanner;
+
 public class W1D1HW {
     public static void main(String args[]) {
-        int i=9;
-        int j=8;
+        Scanner num = new Scanner(System.in);
+        int i= num.nextInt();
+        int j= num.nextInt();
 
         //The multiplication of the two operands
         System.out.println("The multiplication of the two operands is " + (i * j));
