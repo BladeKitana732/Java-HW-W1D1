@@ -9,6 +9,6 @@ public class UnitConversion {
 
         //Code must convert 1 inch to every 0.0254 meter (ex. 1000.0 inches => 25.4 meters)
         int num1 = a.nextInt();
-        System.out.println(num1);
+        System.out.println(num1 * 0.0254 + " meters from inches inserted");
     }
 }
