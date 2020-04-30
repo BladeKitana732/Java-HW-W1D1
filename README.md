@@ -19,4 +19,4 @@ Expected Output: 25 x 5 = 125
 
 
 4. Write a Java program that reads a number in inches, converts it to meters.
-Note: One inch is 0.0254 meter. Example: Input a value for inch: 1000 Expected Output: 1000.0 inch is 25.4 meters
+Note: One inch is 0.0254 meter. Example: Input a value for inch: 1000 Expected Output: 1000.0 inch is 25.4 meters - Completed
